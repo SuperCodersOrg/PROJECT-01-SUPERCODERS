@@ -1,5 +1,5 @@
 
-- Date: 22 June 2026 (Session 1)
+- Date: 22 June 2026 (Session 2)
 Duration: 3 Hours 30 mins 
 Goal():
 To implement 2 methods of the dynamic array been listed in the design proposal.Also to understand how the mannual memory allocations works.

@@ -1,5 +1,5 @@
 - Date: 17 June 2026 
-Duration: 3 Hours 45 mins 
+Duration: 5 Hours 45 mins 
 Goal():
 To read the given documents and find the requirements for the project 
 

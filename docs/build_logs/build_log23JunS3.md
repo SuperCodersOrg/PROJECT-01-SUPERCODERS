@@ -1,5 +1,5 @@
 
-- Date: 23 June 2026 (Session 2)
+- Date: 23 June 2026 (Session 3)
 Duration: 2 Hours 30 mins 
 Goal():
 Implementing different functions such as push_back,shrink in dynamic array and creating the abstractclass for the common methods like Insert(),remove(),size(),capacity().Complete Implementation of dynamic array and start working with linked list.

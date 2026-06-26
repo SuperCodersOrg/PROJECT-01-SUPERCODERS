@@ -1,6 +1,6 @@
 
 - Date: 20 June 2026 
-Duration: 3 Hours 45 mins 
+Duration: 5 Hours 30 mins 
 Goal():
 TO create the design proposal with the instructed changes  
 

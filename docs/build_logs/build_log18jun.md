@@ -1,6 +1,6 @@
 
 - Date: 18 June 2026 
-Duration: 3 Hours 45 mins 
+Duration: 5 Hours 40 mins 
 Goal():
 To read the given handbook and create the design proposal for the project 
 
